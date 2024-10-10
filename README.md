@@ -36,13 +36,13 @@ The course is divided into 15 lessons, each covering a specific topic:
 #### You don't really need to do this as Github offers a markdown visualizer
 1. Clone this repository to your computer:
    ```bash
-   git clone link
+   git clone https://github.com/borgox/Python-Course.git
    ```
 2. Navigate to the course folder:
    ```bash
-   cd repo name
+   cd Python-Course
    ```
-3. Open the folder with your IDE (e.g., VS Code).
+3. Open the folder with your IDE (e.g., VS Code). (if needed install markdown previews)
 
 ## Contributions
 If you want to contribute to the course or suggest improvements, feel free to fork the repository and open a pull request.
@@ -51,4 +51,4 @@ If you want to contribute to the course or suggest improvements, feel free to fo
 This project is distributed under the MIT license. Feel free to use and modify it as you wish.
 
 ## Contact
-For any questions or suggestions, you can contact me via GitHub
+For any questions or suggestions, you can contact me via GitHub / Open an Issue
