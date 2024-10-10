@@ -3,8 +3,8 @@
 
 greeting = "Hello, Python!" # or greeting = 'Hello, Python!'
 # x = 42 is an Integer Data Type (int)
-fruits = ["apple", "banana", "cherry"] # or fruits = ('apple', 'banana', 'cherry')
-person = {"name": "Alice", "age": 25} # or person = dict(name="Alice", age=25)  # or person = dict({"name": "Alice", "age": 25}) or person = {'name': 'Alice', 'age': 25}
+fruits = ["apple", "banana", "cherry"] # or fruits = ['apple', 'banana', 'cherry']
+person = {"name": "Alice", "age": 25} # or or person = {'name': 'Alice', 'age': 25}
 pi = float(3.14)
 # 5 > 3 is True    
 # 2 < 4 is False
