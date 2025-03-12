@@ -1,5 +1,7 @@
 # Python Course
-
+-------------
+⚡Notice: Currently in stand-by as i have very little time to dedicate to this
+------------
 Welcome to my personal **Python Course**! This repository contains material to learn the Python programming language, starting from the basics to more advanced concepts. Each lesson includes `.md` files for theory and may contain `.py` examples
 I recommend you to code while you learn.
 ## Course Structure
