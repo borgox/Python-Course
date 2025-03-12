@@ -29,36 +29,36 @@
 ## 3. How to Install Python on Linux
 
 ### Using the Terminal
-    # Ubuntu
-    1. Open the terminal.
-    2. Update the package list:
-        ```bash
-        sudo apt update
-        ```
-    3. Install Python (most Linux distributions have Python pre-installed, but this ensures you get the latest version):
-        ```bash
-        sudo apt install python3
-        ```
-    4. **Verify the Installation:**
-        ```bash
-        python3 --version
-        ```
-        ![Python Setup on Linux](images/py_setup_linux.png)
+## Ubuntu
+1. Open the terminal.
+2. Update the package list:
+    ```bash
+    sudo apt update
+     ```
+3. Install Python (most Linux distributions have Python pre-installed, but this ensures you get the latest version):
+    ```bash
+    sudo apt install python3
+    ```
+4. **Verify the Installation:**
+   ```bash
+   python3 --version
+   ```
+   ![Python Setup on Linux](images/py_setup_linux.png)
 
-    # Arch
-    1. Open the terminal
-    2. Update the packages
+## Arch
+1. Open the terminal
+2. Update the packages
     ```bash
         sudo pacman -Syu
     ```
-    3. Install Python (most Linux distributions have Python pre-installed, but this ensures you get the latest version):
-        ```bash
-        sudo pacman install python3
-        ```
-    4. **Verify the Installation:**
-        ```bash
-        python3 --version
-        ```
+3. Install Python (most Linux distributions have Python pre-installed, but this ensures you get the latest version):
+   ```bash
+   sudo pacman install python3
+    ```
+4. **Verify the Installation:**
+   ```bash
+   python3 --version
+   ```
     
 ## 4. Install an IDE (VS Code) on Windows
 
